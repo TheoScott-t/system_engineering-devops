@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -p
+# List all local variables, environment variables, and shell functions
